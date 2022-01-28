@@ -1,7 +1,3 @@
 Este es un archivo que irémos trabajando a medida que pasa el curso. *Primera modificación :o*
 
-*Esta es una segunda modificación :o*
-
-*esta es una cuarta modificación :o*
-
-*Acá hablarémos de juanjo*
+**Este es un nuevo archivo que reemplaza al primero**
