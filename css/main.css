@@ -6,6 +6,29 @@
     width:60%;
     font-family: Arial;
 }
+
 #section div{
     padding-left:30px;
+}
+
+#tagline{
+    font-weight: normal;
+
+}
+
+#cabecera h1{
+    background-color: cadetblue;
+    margin-top: auto;
+    width: 60%;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;   
+}
+
+#cabecera{
+    box-shadow: 2px -3px 25px -8px rgba(0,0,0,0.64);
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    background-color: cadetblue;
 }
