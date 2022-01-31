@@ -8,3 +8,8 @@
 #section div{
     padding-left:30px;
 }
+
+#cabecera{
+    margin: auto;
+    width: 60%;
+}
